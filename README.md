@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">A slacker and just a lazy person from Russia 🇷🇺
   <div id="badges">
-  <a href="yuschkof.t.me">
+  <a href="https://t.me/yuschkof">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge" align="center" width="100"/>
   </a>
 </div>
