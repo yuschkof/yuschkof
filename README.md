@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sun9-80.userapi.com/impg/nocxJedUDhjc78gWEptr2fJc9i0YlZBBplUfig/fTLedAX2rtg.jpg?size=1500x500&quality=96&sign=2250c670219585d2add09a8151febef1&type=album" width="600"/>
+  <img src="https://sun9-31.userapi.com/impg/6ABsJ9pQtYewV10wizu5DY8Iku_DvSdEH3o7Uw/mnrOLTuKOaw.jpg?size=602x370&quality=96&sign=43431d3beedc5ac2413562637f8c5c2e&type=album" width="300" hight="600" />
 </div>
 <h3 align="center">A slacker and just a lazy person from Russia 🇷🇺
   <div id="badges">
