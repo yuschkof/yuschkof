@@ -9,6 +9,5 @@
 </div>
 </h3>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuschkof&show_icons=true&theme=dracula) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuschkof&layout=compact&theme=dracula)](https://github.com/yuschkof/github-readme-stats)
-
+| <a href="https://github.com/yuschkof/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuschkof&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/yuschkof/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuschkof&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
